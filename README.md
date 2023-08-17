@@ -5,10 +5,6 @@ Prerequisites
 You need to have MongoDB Atlas installed and running.
 You need to have Java 17 installed.
 You need to have Maven installed.
-Running the API
-To run the API, you can use the following command:
-
-mvn spring-boot:run
 
 
 The API will be available at http://localhost:8080/.
