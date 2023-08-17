@@ -1,7 +1,7 @@
-Spring Boot REST API with MongoDB Atlas
+## Spring Boot REST API with MongoDB Atlas
 This is a simple Spring Boot REST API that allows you to create, read, update, and delete students. The API is backed by a MongoDB Atlas database.
 
-Prerequisites
+## Prerequisites
 You need to have MongoDB Atlas installed and running.
 You need to have Java 17 installed.
 You need to have Maven installed.
